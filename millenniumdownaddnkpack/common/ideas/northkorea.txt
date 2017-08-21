@@ -1,0 +1,114 @@
+ideas = {
+	# Military
+
+	political_advisor = {
+		advisor_PRK_kim_yong_chol = {
+			allowed = { original_tag = PRK }
+			traits = { 
+				communist_politician
+			}
+		}
+	}
+
+	# TECHNOLOGY
+
+	industrial_concern = {
+	
+		Chollima_industrial = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				industry = 0.10
+			}
+			
+			traits = { industrial_concern }
+		}
+	
+		GimchaekJecheolRyeonhapGieopso = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				industry = 0.10
+			}
+			
+			traits = { industrial_concern }
+		}
+
+		Fanfe_industrial = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				industry = 0.10
+			}
+			
+			traits = { industrial_concern }
+		}
+
+		Sonjin_industrial = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				industry = 0.10
+			}
+			
+			traits = { industrial_concern }
+		}
+	}
+
+	materiel_manufacturer = {
+
+		designer = yes
+
+		Sungri_Motor_Plant = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				motorized_equipment = 0.10
+			}
+			
+			traits = { motorized_equipment_manufacturer }
+		}
+
+		Pyorhali_Munitions_Factory = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				electronics = 0.10
+			}
+			
+			traits = { electronics_concern }
+		}
+
+		 	Kim_Chong-tae_Electric_Locomotive_Works = {
+			
+			allowed = {
+				original_tag = PRK
+			}
+			
+			research_bonus = {
+				electronics = 0.10
+			}
+			
+			traits = { electronics_concern }
+		}
+
+	}
+}

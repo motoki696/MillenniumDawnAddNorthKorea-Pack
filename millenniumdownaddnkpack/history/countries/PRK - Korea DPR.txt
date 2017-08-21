@@ -98,23 +98,23 @@ set_politics = {
 
 	parties = {
 		
-		conservative = {
-			popularity = 10
-		}
-		social_liberal = {
-			popularity = 10
-		}
+#		conservative = {
+#			popularity = 0
+#		}
+#		social_liberal = {
+#			popularity = 0
+#		}
 		social_democrat = {
-			popularity = 10
+			popularity = 7
 		}
-		progressive = {
-			popularity = 10
-		}
+#		progressive = {
+#			popularity = 10
+#		}
 		democratic_socialist = {
-			popularity = 10
+			popularity = 6
 		}
 		communist = {
-			popularity = 50
+			popularity = 87
 		}
 	}
 	
@@ -142,211 +142,6 @@ create_country_leader = {
 #	picture = "Portrait_PRK_Kim_Jong_Il.dds"
 #	skill = 3
 #}
-create_corps_commander = {
-	name = "朴永植" #  Pak Yong sik
-	picture = "Portrait_PRK_Pak_Yong_sik.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "黄炳瑞" #  Hwang Pyong So
-	picture = "Portrait_PRK_Hwang_Pyong_So.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "李英浩" #  Ri Yong Ho
-	picture = "Portrait_PRK_Ri_Yong_Ho.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "柳京"
-	skill = 1
-}
-create_corps_commander = {
-	name = "李炳鉄" # Lee Byeongcheol
-	picture = "Portrait_PRK_Lee_Byeongcheol.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "ソン・チョルジュ"
-	skill = 1
-}
-create_corps_commander = {
-	name = "チェ・ヨンホ"
-	skill = 1
-}
-create_corps_commander = {
-	name = "李勇武" #Ri Yong Mu
-	# picture = "Portrait_PRK_Ri_Yong_Mu.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "李永吉" # Ri Yonggil
-	skill = 1
-}
-create_corps_commander = {
-	name = "李明秀"
-	skill = 1
-}
-create_corps_commander = {
-	name = "李闊"
-	skill = 1
-}
-create_corps_commander = {
-	name = "李従茂" #Ri Jong-mu
-	# picture = "Portrait_PRK_Ri_Jong_mu.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "尹正麟"
-	skill = 1
-}
-create_corps_commander = {
-	name = "白鶴林" # Paek Hak-rim
-	picture = "Portrait_PRK_Paek_Hak_rim.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "辺仁善"
-	skill = 1
-}
-create_corps_commander = {
-	name = "玄永哲" # Hyon Yong-chol
-	picture = "Portrait_PRK_Hyon_Yong_chol.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "玄哲海"
-	skill = 1
-}
-create_corps_commander = {
-	name = "表武源"
-	skill = 1
-}
-create_corps_commander = {
-	name = "趙明禄" # Jo Myong-rok
-	picture = "Portrait_PRK_Jo_Myong_rok.dds"
-	skill = 1 
-}
-create_corps_commander = {
-	name = "朴成哲" # Pak Song-chol
-	# picture = "Portrait_PRK_Pak_Song_chol.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "朱霜成"
-	skill = 1
-}
-create_corps_commander = {
-	name = "張成沢" # Chang Song-taek
-	picture = "Portrait_PRK_Chang_Song_taek.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "張成禹" # Chang Seong-U
-	# picture = "Portrait_PRK_Chang_Seong_u.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "張正男" # Chang Chongnam
-	picture = "Portrait_PRK_Chang_Chongnam.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "崔相麗" 
-	skill = 1
-}
-create_corps_commander = {
-	name = "崔竜海" # Choe Ryong-hae
-	picture = "Portrait_PRK_Choe_Ryong_hae.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "崔富日" # Choi Bu-il
-	picture = "Portrait_PRK_Choe_bu_il.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "金慶玉" # Kim Kyong Ok
-	# picture = "Portrait_PRK_Kim_Kyong_Ok.dds"
-	skill = 1
-}
-create_corps_commander = {
-	name = "金元弘" 
-	skill = 1
-}
-create_corps_commander = {
-	name = "金英哲" 
-	skill = 1
-}
-create_corps_commander = {
-	name = "金永春" # Kim Yong-chun
-	skill = 1
-}
-create_corps_commander = {
-	name = "金哲" 
-	skill = 1
-}
-create_corps_commander = {
-	name = "金正覚"  # Kim Jong-gak
-	skill = 1
-}
-create_corps_commander = {
-	name = "金格植" # Kim Kyok-sik
-	skill = 1
-}
-create_corps_commander = {
-	name = "姜太武" 
-	skill = 1
-}
-create_corps_commander = {
-	name = "呉克烈" 
-	skill = 1
-}
-create_corps_commander = {
-	name = "禹東測" 
-	skill = 1
-}
-create_field_marshal = {
-	name = "李乙雪"
-	skill = 1
-}
-
-# 海軍軍人
-create_navy_leader = {
-	name = "金鎰喆"
-	# desc = "Kim Il Chol_desc"
-	#picture = "Portrait_PRK_"Kim_Il_Chol.dds"
-	traits = { }
-	skill = 1
-}
-create_navy_leader = {
-	name = "金潤心"
-	# desc = "Kim Yun Sim_desc"
-	#picture = "Portrait_PRK_"Kim_Yun_Sim.dds"
-	traits = { }
-	skill = 1
-}
-create_navy_leader = {
-	name = "鄭明道"
-	traits = { }
-	skill = 1
-}
-create_navy_leader = {
-	name = "金明植"
-	traits = { }
-	skill = 1
-}
-create_navy_leader = {
-	name = "リ・ヨンジュ"
-	traits = { }
-	skill = 1
-}
-create_navy_leader = {
-	name = "金明国"
-	traits = { }
-	skill = 1
-}
-
 
 2011.12.1 = {
 	set_country_flag = prk_death_of_kim_jong_il
