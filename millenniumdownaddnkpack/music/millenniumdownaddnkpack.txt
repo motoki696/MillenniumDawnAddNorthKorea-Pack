@@ -1,0 +1,109 @@
+music = {
+	song = "Red Sky of Mt.paektu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Azalea in the Chol pass"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Youth uniforms"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Comrade Kim Jong-Il, us"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Mountain Golden harvest"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "The people called yearns"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "The sound of the whistle of the train bound for North"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Panzer song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Song of General Kim Il Sung"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "Pyongyang news"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}
+
+music = {
+	song = "The fight thou shalt defend Pyongyang."
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}	
+}

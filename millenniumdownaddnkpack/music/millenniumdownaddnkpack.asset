@@ -1,0 +1,66 @@
+# 白頭山の赤い空
+music = {
+	name = "Red Sky of Mt.paektu"
+	file = "RedSkyofMt.paektu.ogg"
+	volume = 0.85
+}
+# チョル峠のツツジ
+music = {
+	name = "Azalea in the Chol pass"
+	file = "AzaleaintheCholpass.ogg"
+	volume = 0.85
+}
+#  青春の制服
+music = {
+	name = "Youth uniforms"
+	file = "Youthuniforms.ogg"
+	volume = 0.85
+}
+# 我らの金正日同志
+music = {
+	name = "Comrade Kim Jong-Il, us"
+	file = "ComradeKimJong-Il,us.ogg"
+	volume = 0.85
+}
+# 黄金山タリョン
+music = {
+	name = "Mountain Golden harvest"
+	file = "MountainGoldenharvest.ogg"
+	volume = 0.85
+}
+# 人民は呼び慕う
+music = {
+	name = "The people called yearns"
+	file = "Thepeoplecalledyearns.ogg"
+	volume = 0.85
+}
+# 北行き列車の汽笛の音
+music = {
+	name = "The sound of the whistle of the train bound for North"
+	file = "The soundofthewhistleofthetrainboundforNorth.ogg"
+	volume = 0.85
+}
+# 戦車兵の歌
+music = {
+	name = "Panzer song"
+	file = "Panzersong.ogg"
+	volume = 0.85
+}
+# 金日成将軍の歌
+music = {
+	name = "Song of General Kim Il Sung"
+	file = "SongofGeneralKimIlSung.ogg"
+	volume = 0.85
+}
+# 平壌の消息
+music = {
+	name = "Pyongyang news"
+	file = "Pyongyangnews.ogg"
+	volume = 0.85
+}
+# 平壌よ、汝を守り戦わん
+music = {
+	name = "The fight thou shalt defend Pyongyang."
+	file = "ThefightthoushaltdefendPyongyang..ogg"
+	volume = 0.85
+}
